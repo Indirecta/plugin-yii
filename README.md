@@ -1,5 +1,5 @@
-Yii Recomendation Widget
-========================
+Yii Recommendation Widget
+=========================
 
 Provides personal content recommendation for each visitor
 
